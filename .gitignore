@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+
+
+# Datasets
+calendar.csv
+listings.csv
+reviews.csv
+
+
+# Folders
+Extras/
+.ipynb_checkpoints/
+
+
+# Generated Charts
+AVG_List_Price.png
+List_Count.png
+Price_Hood.png
